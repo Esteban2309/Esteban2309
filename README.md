@@ -10,3 +10,27 @@ CI / CD                  | [![Azure Pipelines Badge](https://img.shields.io/badg
 Side Projects - App <img width=200/> | [![MahoMangaDownloader Badge](https://img.shields.io/badge/-MahoMangaDownloader-lightskyblue?style=flat&logoColor=white)](https://project.zmcx16.moe/?page=mahomangadownloader) [![AxisTradeCult Badge](https://img.shields.io/badge/-AxisTradeCult-darkorange?style=flat&logoColor=white)](https://github.com/zmcx16/AxisTradeCult) [![ChaldeaStockObservatory Badge](https://img.shields.io/badge/-ChaldeaStockObservatory-lightsteelblue?style=flat&logoColor=white)](https://github.com/zmcx16/ChaldeaStockObservatory) [![MangaPrettier Badge](https://img.shields.io/badge/-MangaPrettier-orange?style=flat&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![PhotoMosaic-Artifact Badge](https://img.shields.io/badge/-PhotoMosaic%20Artifact-deepskyblue?style=flat&logoColor=white)](https://github.com/zmcx16/PhotoMosaic-Artifact) [![OpenAI-Gym-Hearts Badge](https://img.shields.io/badge/-OpenAI%20Gym%20Hearts-darkslateblue?style=flat&logoColor=white)](https://github.com/zmcx16/OpenAI-Gym-Hearts) [![find-house-assistant-chrome-extension Badge](https://img.shields.io/badge/-find%20house%20assistant%20chrome%20extension-yellowgreen?style=flat&logoColor=white)](https://github.com/zmcx16/find-house-assistant-chrome-extension) [![MemoOffVocabulary Badge](https://img.shields.io/badge/-MemoOffVocabulary-magenta?style=flat&logoColor=white)](https://github.com/zmcx16/MemoOffVocabulary)   
 Side Projects - Web      | [![Side Project Badge](https://img.shields.io/badge/-project.zmcx16.moe-00fa9a?style=flat&logoColor=white)](https://project.zmcx16.moe/) [![Axis Cult Badge](https://img.shields.io/badge/-Axis%20Cult-00eeff?style=flat&logoColor=white)](https://axiscult.zmcx16.moe/) [![Norn Minehunter Badge](https://img.shields.io/badge/-Norn%20Minehunter-gold?style=flat&logoColor=white)](https://norn-minehunter.zmcx16.moe/) [![TW Stock Lottery Secretary Badge](https://img.shields.io/badge/-TW%20Stock%20Lottery%20Secretary-3b5998?style=flat&logoColor=white)](https://www.facebook.com/%E8%82%A1%E7%A5%A8%E6%8A%BD%E7%B1%A4%E5%B0%8F%E7%A7%98%E6%9B%B8-115560563215006/) [![Protobuf Deserializer Badge](https://img.shields.io/badge/-Protobuf%20Deserializer-red?style=flat&logoColor=white)](https://protobuf-deserializer.zmcx16.moe/)
 Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx16-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zmcx16/) [![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:zmcx16@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunningyou/)
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
