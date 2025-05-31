@@ -1,87 +1,196 @@
-<div class="tenor-gif-embed" data-postid="5424648531026675400" data-share-method="host" data-aspect-ratio="1.15" data-width="100%"><a href="https://tenor.com/view/death-note-l-gif-5424648531026675400">Death Note L Meme</a>from <a href="https://tenor.com/search/death+note-memes">Death Note Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <img src="https://i.imgur.com/x5fnQK1.gif" alt="Death Note L Meme" />
 </p>
 
+<h1 align="center">Hola 👋, Soy Esteban Molina Bohórquez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+de+Software;Practicante+en+Valle+del+Software;Quinto+Semestre+@+Universitaria+de+Colombia;Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Siempre+aprendiendo+cosas+nuevas"></a>
+</p>
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
+	<img src="https://komarev.com/ghpvc/?username=Esteban2309&label=Profile%20views&color=0047AB&style=plastic?" alt="Esteban2309" height=25px, width=160px/> 
 </p>
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- 🎓 Soy estudiante de `Quinto Semestre` de [Ingeniería de Software](https://www.universitariadecolombia.edu.co/) en la [Universitaria de Colombia](https://www.universitariadecolombia.edu.co/).
+- 💼 Actualmente en prácticas en el `Valle del Software` (6 meses de experiencia).
+- 💻 Me encanta usar el software como solución para cada `Problema`.
+- 🌱 Actualmente estoy aprendiendo `Ingeniería de Software` y `Desarrollo Full Stack`.
+- 🤓 Siempre `aprendiendo cosas nuevas`.
+- 📫 Puedes contactarme en **estivan2309@gmail.com**
+- ⚡ Dato curioso: Estoy abierto a participar en programación competitiva si surge la oportunidad.
+
 <br>
 
+## 🛠️ Tecnologías y Herramientas
 
-## Profile
-Property                 | Data  
--------------------------|------
-Language / IDE           | [![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3Azmcx16&type=Repositories) [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3Azmcx16&type=Repositories) [![C++ Badge](https://img.shields.io/badge/-Visual%20Studio-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![C Badge](https://img.shields.io/badge/-Visual%20Studio-A8B9CC?style=flat&logo=C&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![JAVA Badge](https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=JAVA&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
-Tool / Framework         | [![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=Electron&logoColor=white)](https://github.com/zmcx16/AxisCult) [![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![PyQt Badge](https://img.shields.io/badge/-PyQt-41CD52?style=flat&logo=Qt&logoColor=white)](https://github.com/zmcx16/AxisTradeCult) [![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Elasticsearch Badge](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Logstash Badge](https://img.shields.io/badge/-Logstash-F2BD1A?style=flat&logo=Logstash&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Kibana Badge](https://img.shields.io/badge/-Kibana-E8478B?style=flat&logo=Kibana&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![photoshop Badge](https://img.shields.io/badge/-Photoshop-26C9FF?style=flat&logo=Adobe-Photoshop&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
-Domain Knownledge        | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Web Crawling Badge](https://img.shields.io/badge/-Web%20Crawling-036CB5?style=flat&logoColor=white)](https://project.zmcx16.moe/?page=mahomangadownloader) [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/zmcx16/AxisTradeCult)
-CI / CD                  | [![Azure Pipelines Badge](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=Azure-Pipelines&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![AppVeyor Badge](https://img.shields.io/badge/-AppVeyor-00B3E0?style=flat&logo=AppVeyor&logoColor=white)](https://github.com/zmcx16/MemoOffVocabulary) [![Travis-CI Badge](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat&logo=Travis-CI&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)](https://github.com/zmcx16/zmcx16)
-Side Projects - App <img width=200/> | [![MahoMangaDownloader Badge](https://img.shields.io/badge/-MahoMangaDownloader-lightskyblue?style=flat&logoColor=white)](https://project.zmcx16.moe/?page=mahomangadownloader) [![AxisTradeCult Badge](https://img.shields.io/badge/-AxisTradeCult-darkorange?style=flat&logoColor=white)](https://github.com/zmcx16/AxisTradeCult) [![ChaldeaStockObservatory Badge](https://img.shields.io/badge/-ChaldeaStockObservatory-lightsteelblue?style=flat&logoColor=white)](https://github.com/zmcx16/ChaldeaStockObservatory) [![MangaPrettier Badge](https://img.shields.io/badge/-MangaPrettier-orange?style=flat&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![PhotoMosaic-Artifact Badge](https://img.shields.io/badge/-PhotoMosaic%20Artifact-deepskyblue?style=flat&logoColor=white)](https://github.com/zmcx16/PhotoMosaic-Artifact) [![OpenAI-Gym-Hearts Badge](https://img.shields.io/badge/-OpenAI%20Gym%20Hearts-darkslateblue?style=flat&logoColor=white)](https://github.com/zmcx16/OpenAI-Gym-Hearts) [![find-house-assistant-chrome-extension Badge](https://img.shields.io/badge/-find%20house%20assistant%20chrome%20extension-yellowgreen?style=flat&logoColor=white)](https://github.com/zmcx16/find-house-assistant-chrome-extension) [![MemoOffVocabulary Badge](https://img.shields.io/badge/-MemoOffVocabulary-magenta?style=flat&logoColor=white)](https://github.com/zmcx16/MemoOffVocabulary)   
-Side Projects - Web      | [![Side Project Badge](https://img.shields.io/badge/-project.zmcx16.moe-00fa9a?style=flat&logoColor=white)](https://project.zmcx16.moe/) [![Axis Cult Badge](https://img.shields.io/badge/-Axis%20Cult-00eeff?style=flat&logoColor=white)](https://axiscult.zmcx16.moe/) [![Norn Minehunter Badge](https://img.shields.io/badge/-Norn%20Minehunter-gold?style=flat&logoColor=white)](https://norn-minehunter.zmcx16.moe/) [![TW Stock Lottery Secretary Badge](https://img.shields.io/badge/-TW%20Stock%20Lottery%20Secretary-3b5998?style=flat&logoColor=white)](https://www.facebook.com/%E8%82%A1%E7%A5%A8%E6%8A%BD%E7%B1%A4%E5%B0%8F%E7%A7%98%E6%9B%B8-115560563215006/) [![Protobuf Deserializer Badge](https://img.shields.io/badge/-Protobuf%20Deserializer-red?style=flat&logoColor=white)](https://protobuf-deserializer.zmcx16.moe/)
-Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx16-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zmcx16/) [![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:zmcx16@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunningyou/)
-<!-- Connect with me -->
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
+
+<p align="center">
+  &emsp;
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://golang.org" target="_blank">
+    <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
+  </a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend
+
+<p align="center">
+  &emsp;
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
+  </a>
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white">
+  </a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Backend & Mobile
+
+<p align="center">
+  &emsp;
+  <a href="https://nodejs.org" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://bun.sh/" target="_blank">
+    <img alt="Bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://expressjs.com" target="_blank">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB">
+  </a>
+  &emsp;
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
+  </a>
+  &emsp;
+  <a href="https://flutter.dev" target="_blank">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white">
+  </a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Bases de Datos & Cloud
+
+<p align="center">
+  &emsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://aws.amazon.com" target="_blank">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://firebase.google.com/" target="_blank">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase">
+  </a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Herramientas de Desarrollo
+
+<p align="center">
+  &emsp;
+  <a href="#" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#" target="_blank">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  </a>
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Operativos
+
+<p align="center">
+  &emsp;
+  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=plastic&logo=kali-linux&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+</p>
+
+<br>
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Conecta Conmigo 🤝</h2></summary>
   </ul>
 </div>
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+<a href="https://www.linkedin.com/in/esteban-molina-529a98358/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://x.com/Esteban__2309" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/stev4mpp/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="mailto:estivan2309@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="email" height="50" width="50" /></a>
 </p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
-</p>
-
-<br> 
 
 ---
 
@@ -89,123 +198,56 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadísticas de GitHub
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> 🔥 Racha de Commits</h3></summary>
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Esteban2309&theme=tokyonight_duo" alt="Esteban2309" /></p>
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 Estadísticas del Perfil de GitHub</h3></summary>
 
 ----
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	    <img alt="Estadísticas de GitHub de Esteban" src="https://github-readme-stats.vercel.app/api?username=Esteban2309&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esteban2309&langs_count=10&show_icons=true&locale=es&theme=tokyonight" alt="Esteban2309" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes de mi código público y no reflejan experiencia o nivel de habilidad.
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<details><summary><h3>⚡ Actividad Reciente en GitHub</h3></summary>
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![Gráfico de actividad de GitHub de Esteban](https://github-readme-activity-graph.cyclic.app/graph?username=Esteban2309&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- 
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details><summary> <h3> 🏆 Trofeos del Perfil Git </h3></summary>
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Esteban2309&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Esteban2309" /></a> </p>
 	
 </details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-----
+<br><br>
 	
-<div>
-  <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/7oSkaaa">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 Una Serpiente Comiéndose mi Gráfico de Contribuciones
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/Esteban2309/Esteban2309/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
