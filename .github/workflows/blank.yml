@@ -1,0 +1,101 @@
+name: Actualizar imagenes del perfil
+
+on:
+  push:
+    paths:
+      - README.md
+      - .github/workflows/profile-visuals.yml
+  schedule:
+    - cron: "23 7 * * *"  # Una vez al dia (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-imagenes-perfil
+  cancel-in-progress: false
+
+jobs:
+  generar-imagenes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Crear directorio de imagenes
+        run: mkdir -p profile
+
+      - name: Generar estadisticas generales
+        id: stats
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: stats
+          options: "username=Esteban2309&show_icons=true&include_all_commits=true&locale=es&theme=tokyonight"
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generar lenguajes principales
+        id: languages
+        uses: stats-organization/github-readme-stats-action@v2
+        continue-on-error: true
+        with:
+          card: top-langs
+          options: "username=Esteban2309&langs_count=10&layout=compact&locale=es&theme=tokyonight"
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generar trofeos
+        id: trophies
+        uses: ryo-ma/github-profile-trophy@master
+        continue-on-error: true
+        with:
+          username: Esteban2309
+          output_path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: tokyonight
+
+      - name: Generar serpiente animada (claro y oscuro)
+        id: snake
+        uses: Platane/snk/svg-only@v3
+        continue-on-error: true
+        with:
+          github_user_name: Esteban2309
+          outputs: |
+            profile/github-contribution-grid-snake.svg
+            profile/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Guardar SVG en el repositorio
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          if git diff --cached --quiet; then
+            echo "No hay cambios en las imagenes"
+          else
+            git commit -m "chore: actualizar graficos del perfil"
+            git push
+          fi
+
+      - name: Resumen de generacion
+        if: always()
+        shell: bash
+        env:
+          STATS: ${{ steps.stats.outcome }}
+          LANGUAGES: ${{ steps.languages.outcome }}
+          TROPHIES: ${{ steps.trophies.outcome }}
+          SNAKE: ${{ steps.snake.outcome }}
+        run: |
+          echo "### Imagenes del perfil" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Estadisticas: $STATS" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Lenguajes: $LANGUAGES" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Trofeos: $TROPHIES" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Serpiente: $SNAKE" >> "$GITHUB_STEP_SUMMARY"
+          if [[ "$STATS" != success || "$LANGUAGES" != success || "$TROPHIES" != success || "$SNAKE" != success ]]; then
+            echo "Algun generador fallo. Revisa el log correspondiente en Actions." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
