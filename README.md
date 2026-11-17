@@ -281,8 +281,12 @@ const esteban = {
 ---
 
 <p align="center">
-  <img alt="Estadísticas de GitHub de Esteban" src="./profile/stats.svg" height="210" />
-  <img alt="Lenguajes principales en GitHub" src="./profile/top-langs.svg" height="210" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img alt="Estadísticas de GitHub de Esteban2309" src="https://github-stats-extended.vercel.app/api?username=Esteban2309&amp;show_icons=true&amp;locale=es&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=true" height="190" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img alt="Lenguajes públicos del perfil Esteban2309" src="https://github-stats-extended.vercel.app/api/top-langs?username=Esteban2309&amp;langs_count=8&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="190" />
+  </a>
 </p>
 
 <p align="center"><sub>Los lenguajes representan únicamente los repositorios analizados; no equivalen a mi nivel de experiencia.</sub></p>
@@ -301,21 +305,30 @@ const esteban = {
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./profile/trophy.svg" alt="Trofeos del perfil GitHub de Esteban2309" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Esteban2309&amp;theme=tokyonight&amp;no-frame=true&amp;column=4&amp;margin-w=15&amp;margin-h=15" alt="Trofeos del perfil GitHub de Esteban2309" />
+  </a>
+</p>
+<p align="center"><sub>Trofeos servidos por una instancia alternativa pública; su disponibilidad depende de ese proveedor.</sub></p>
 	
 </details>
 
 <br><br>
 	
-## 🐍 Una Serpiente Comiéndose mi Gráfico de Contribuciones
-	
+## 🐍 Serpiente animada y contribuciones de GitHub
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
-    <img alt="Serpiente animada de contribuciones de GitHub" src="./profile/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+      <img alt="Demostración animada de serpiente de GitHub" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    </picture>
+  </a>
 </p>
+
+<p align="center"><sub>Animación de ejemplo de <a href="https://github.com/Platane/snk">Platane/snk</a>, no basada en mis contribuciones. <a href="https://github.com/users/Esteban2309/contributions">Ver mi gráfico de contribuciones real</a>.</sub></p>
 
 ---
 
