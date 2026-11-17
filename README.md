@@ -4,32 +4,79 @@
 
 <h1 align="center">Hola 👋, Soy Esteban Molina Bohorquez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingeniería+de+Software;Practicante+en+Valle+del+Software;Sexto+Semestre+@+Universitaria+de+Colombia;Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Siempre+aprendiendo+cosas+nuevas"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="Presentación animada: estudiante de noveno semestre y programador" src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23C8BE25&size=23&center=true&vCenter=true&width=750&height=75&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Noveno+semestre+%7C+Universitaria+de+Colombia;Programador+%7C+Desarrollador+Full+Stack;React+%7C+Next.js+%7C+Node.js;Automatizaci%C3%B3n+e+integraciones+con+IA;Siempre+aprendiendo+cosas+nuevas"></a>
 </p>
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Esteban2309&label=Profile%20views&color=0047AB&style=plastic?" alt="Esteban2309" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=Esteban2309&label=Profile%20views&color=0047AB&style=plastic?" alt="Esteban2309" height="25" width="160"/> 
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+Soy **programador y estudiante de noveno semestre de Ingeniería de Software** en la [Universitaria de Colombia](https://www.universitariadecolombia.edu.co/). Me enfoco en el **desarrollo full-stack**, la creación de interfaces web y la **automatización de procesos con APIs e inteligencia artificial**.
 
-- 🎓 Soy estudiante de `Quinto Semestre` de [Ingeniería de Software](https://www.universitariadecolombia.edu.co/) en la [Universitaria de Colombia](https://www.universitariadecolombia.edu.co/).
-- 💼 Actualmente en prácticas en el `Valle del Software` (6 meses de experiencia).
-- 💻 Me encanta usar el software como solución para cada `Problema`.
-- 🌱 Actualmente estoy aprendiendo `Ingeniería de Software` y `Desarrollo Full Stack`.
-- 🤓 Siempre `aprendiendo cosas nuevas`.
-- 📫 Puedes contactarme en **estivan2309@gmail.com**
-- ⚡ Dato curioso: Estoy abierto a participar en programación competitiva si surge la oportunidad.
+Me gusta conectar las necesidades del usuario con soluciones técnicas claras: desde diseñar un flujo de registro hasta integrar servicios, construir herramientas internas y mejorar procesos existentes.
 
-<br>
+- 🎓 **Formación:** Noveno semestre de Ingeniería de Software.
+- 💼 **Actualidad:** Trabajo como **programador**, participando en desarrollo de software y soluciones web.
+- 💻 **Enfoque:** React, Next.js, TypeScript, Node.js e integraciones.
+- 🤖 **Intereses técnicos:** IA aplicada, MCP, agentes, automatización y DevSecOps.
+- 📍 **Ubicación:** Bogotá, Colombia.
+- 📫 **Contacto:** [estivan2309@gmail.com](mailto:estivan2309@gmail.com).
 
-## 🛠️ Tecnologías y Herramientas
+<br clear="right"/>
+
+---
+
+## 🤝 Cómo trabajo
+
+- **Orientado a problemas reales:** parto de lo que necesita el usuario antes de escoger una tecnología.
+- **Visión de producto:** considero usabilidad, navegación y objetivos del negocio al desarrollar una funcionalidad.
+- **Desarrollo iterativo:** organizo tareas en entregables verificables y ajusto a partir de feedback.
+- **Integración y automatización:** conecto APIs, servicios y herramientas para reducir trabajo manual.
+- **Aprendizaje continuo:** experimento con nuevas tecnologías, agentes de IA y herramientas de desarrollo.
+
+---
+
+## 💼 Experiencia
+
+### Programador — Desarrollo de software *(actualidad)*
+
+Participación en el desarrollo de soluciones digitales, con trabajo en interfaces web, ajustes de funcionalidades e integraciones. Actualmente colaboro en el ecosistema **Gran Titán / LosUsados**, abordando flujos de registro, experiencia de usuario y funcionalidades del frontend.
+
+### Prácticas de desarrollo — Valle del Software *(experiencia previa)*
+
+Participación en proyectos de desarrollo web, automatización e integración de servicios, incluyendo sistemas de turnos, asistentes basados en MCP y flujos para campañas publicitarias mediante APIs.
+
+---
+
+## 🚀 Proyectos y experiencia aplicada
+
+### Sistema de turnos para IPS — *React · Node.js · Express*
+
+Desarrollo de una solución de atención por turnos con generación de tickets, panel de operador, visualización de llamados y componentes orientados a la experiencia de pacientes y personal de atención.
+
+### Asistentes universitarios con MCP — *MCP · APIs · Automatización*
+
+Trabajo en asistentes para consultas de información institucional y de servicios, utilizando herramientas conectadas a través de **Model Context Protocol (MCP)**.
+
+### Automatización de Meta Ads — *Go · Meta API · IA*
+
+Desarrollo e integración de procesos para apoyar la creación de campañas, formularios de leads y contenido publicitario mediante APIs y modelos de IA.
+
+### Gran Titán / LosUsados — *Frontend · UX · Integraciones*
+
+Trabajo en la experiencia de registro y afiliación del ecosistema automotriz, con enfoque en **landing pages**, formularios integrados en una sola página, navegación e integración de flujos entre servicios.
+
+> Algunos desarrollos corresponden a proyectos internos o privados, por lo que no se incluyen enlaces a repositorios.
+
+---
+
+## 🛠️ Tecnologías y herramientas
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
 
@@ -147,42 +194,64 @@
 
 <p align="center">
   &emsp;
-  <a href="#" target="_blank">
+  <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
   </a>
   &emsp;
-  <a href="#" target="_blank">
+  <a href="https://github.com/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white">
   </a>
   &emsp;
-  <a href="#" target="_blank">
+  <a href="https://www.docker.com/" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white">
   </a>
   &emsp;
-  <a href="#" target="_blank">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
   </a>
 </p>
+
+### 🤖 Inteligencia Artificial, Integraciones y Automatización
+
+<p align="center">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0F172A?style=plastic&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white" />
+</p>
+
+**Áreas de aplicación:** consumo e integración de APIs REST, herramientas MCP, automatización de tareas, orquestación asistida por agentes y flujos de trabajo con IA.
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Operativos
 
 <p align="center">
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=plastic&logo=kali-linux&logoColor=white"></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=plastic&logo=kali-linux&logoColor=white"></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
 </p>
 
 <br>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conecta Conmigo 🤝</h2></summary>
-  </ul>
-</div>
+---
+
+## ⚡ Mi perfil en código
+
+```typescript
+const esteban = {
+  formacion: "Ingeniería de Software — 9.º semestre",
+  rolActual: "Programador",
+  enfoque: ["Full Stack", "Frontend", "Integraciones"],
+  tecnologias: ["TypeScript", "React", "Next.js", "Node.js", "Python", "Go"],
+  intereses: ["IA aplicada", "MCP", "Automatización", "DevSecOps"],
+  objetivo: "Crear software útil, mantenible y centrado en las personas",
+};
+```
+
+<h2 align="center">Conecta conmigo 🤝</h2>
 
 <!--icons and links-->
 <p align="center">
@@ -195,7 +264,7 @@
 ---
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"></a>
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadísticas de GitHub
@@ -204,7 +273,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Esteban2309&theme=tokyonight_duo" alt="Esteban2309" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Esteban2309&theme=tokyonight" alt="Esteban2309" /></p>
 
 </details>
   
@@ -226,7 +295,7 @@
 
 ----
 	
-[![Gráfico de actividad de GitHub de Esteban](https://github-readme-activity-graph.cyclic.app/graph?username=Esteban2309&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de actividad de GitHub de Esteban](https://github-readme-activity-graph.vercel.app/graph?username=Esteban2309&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
@@ -243,7 +312,7 @@
 ## 🐍 Una Serpiente Comiéndose mi Gráfico de Contribuciones
 	
 <p align = "center">
-	<img src = "https://github.com/Esteban2309/Esteban2309/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/Esteban2309/Esteban2309/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
 ---
