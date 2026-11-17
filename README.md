@@ -256,8 +256,7 @@ const esteban = {
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/esteban-molina-529a98358/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://x.com/Esteban__2309" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/stev4mpp/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.instagram.com/stev4mpp_dmc/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="mailto:estivan2309@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="email" height="50" width="50" /></a>
 </p>
 
@@ -279,16 +278,15 @@ const esteban = {
   
 <details><summary><h3>💻 Estadísticas del Perfil de GitHub</h3></summary>
 
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Estadísticas de GitHub de Esteban" src="https://github-readme-stats.vercel.app/api?username=Esteban2309&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esteban2309&langs_count=10&show_icons=true&locale=es&theme=tokyonight" alt="Esteban2309" height="230px"/>
-<br/>
+---
 
-  <b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes de mi código público y no reflejan experiencia o nivel de habilidad.
-  </p>
+<p align="center">
+  <img alt="Estadísticas de GitHub de Esteban" src="./profile/stats.svg" height="210" />
+  <img alt="Lenguajes principales en GitHub" src="./profile/top-langs.svg" height="210" />
+</p>
+
+<p align="center"><sub>Los lenguajes representan únicamente los repositorios analizados; no equivalen a mi nivel de experiencia.</sub></p>
+
 </details>
 
 <details><summary><h3>⚡ Actividad Reciente en GitHub</h3></summary>
@@ -303,7 +301,7 @@ const esteban = {
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Esteban2309&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Esteban2309" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./profile/trophy.svg" alt="Trofeos del perfil GitHub de Esteban2309" /></a> </p>
 	
 </details>
 
@@ -311,8 +309,12 @@ const esteban = {
 	
 ## 🐍 Una Serpiente Comiéndose mi Gráfico de Contribuciones
 	
-<p align = "center">
-	<img src = "https://github.com/Esteban2309/Esteban2309/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
+    <img alt="Serpiente animada de contribuciones de GitHub" src="./profile/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
