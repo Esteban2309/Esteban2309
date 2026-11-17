@@ -301,34 +301,31 @@ const esteban = {
 
 </details>
 
-<details><summary> <h3> 🏆 Trofeos del Perfil Git </h3></summary>
+<details><summary><h3>🏆 Trofeos del Perfil Git</h3></summary>
 
-----
-	
+---
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Esteban2309&amp;theme=tokyonight&amp;no-frame=true&amp;column=4&amp;margin-w=15&amp;margin-h=15" alt="Trofeos del perfil GitHub de Esteban2309" />
+  <a href="https://github.com/Esteban2309" title="Ver mi perfil de GitHub">
+    <img src="https://icon.mzrdev.com/trophy?username=Esteban2309&amp;theme=dark" alt="Trofeos dinámicos del perfil GitHub de Esteban2309" width="100%" />
   </a>
 </p>
-<p align="center"><sub>Trofeos servidos por una instancia alternativa pública; su disponibilidad depende de ese proveedor.</sub></p>
-	
+
 </details>
 
 <br><br>
-	
-## 🐍 Serpiente animada y contribuciones de GitHub
+
+## 🐍 Una Serpiente Comiéndose mi Gráfico de Contribuciones
 
 <p align="center">
-  <a href="https://github.com/Platane/snk">
+  <a href="https://github.com/Esteban2309" title="Contribuciones reales de Esteban2309">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-      <img alt="Demostración animada de serpiente de GitHub" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-theta-sepia.vercel.app/api/snake?username=Esteban2309&amp;palette=github-dark&amp;color_snake=%239F7AEA" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-theta-sepia.vercel.app/api/snake?username=Esteban2309&amp;palette=github-light&amp;color_snake=%237C3AED" />
+      <img src="https://readme-stats-theta-sepia.vercel.app/api/snake?username=Esteban2309&amp;palette=github-dark&amp;color_snake=%239F7AEA" alt="Serpiente animada a partir de las contribuciones reales de Esteban2309" width="100%" />
     </picture>
   </a>
 </p>
-
-<p align="center"><sub>Animación de ejemplo de <a href="https://github.com/Platane/snk">Platane/snk</a>, no basada en mis contribuciones. <a href="https://github.com/users/Esteban2309/contributions">Ver mi gráfico de contribuciones real</a>.</sub></p>
 
 ---
 
