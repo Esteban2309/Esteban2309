@@ -281,12 +281,8 @@ const esteban = {
 ---
 
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img alt="Estadísticas de GitHub de Esteban2309" src="https://github-stats-extended.vercel.app/api?username=Esteban2309&amp;show_icons=true&amp;locale=es&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=true" height="190" />
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img alt="Lenguajes públicos del perfil Esteban2309" src="https://github-stats-extended.vercel.app/api/top-langs?username=Esteban2309&amp;langs_count=8&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="190" />
-  </a>
+  <img alt="Estadísticas reales del perfil GitHub de Esteban2309" src="https://raw.githubusercontent.com/Esteban2309/Esteban2309/main/profile/stats.svg" height="190" />
+  <img alt="Lenguajes de los repositorios públicos de Esteban2309" src="https://raw.githubusercontent.com/Esteban2309/Esteban2309/main/profile/top-langs.svg" height="190" />
 </p>
 
 <p align="center"><sub>Los lenguajes representan únicamente los repositorios analizados; no equivalen a mi nivel de experiencia.</sub></p>
@@ -301,30 +297,16 @@ const esteban = {
 
 </details>
 
-<details><summary><h3>🏆 Trofeos del Perfil Git</h3></summary>
-
----
+## 🏆 Trofeos del Perfil Git
 
 <p align="center">
-  <a href="https://github.com/Esteban2309" title="Ver mi perfil de GitHub">
-    <img src="https://icon.mzrdev.com/trophy?username=Esteban2309&amp;theme=dark" alt="Trofeos dinámicos del perfil GitHub de Esteban2309" width="100%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Esteban2309/Esteban2309/main/profile/trophy.svg" alt="Trofeos del perfil real de GitHub de Esteban2309" width="100%" />
 </p>
-
-</details>
-
-<br><br>
 
 ## 🐍 Una Serpiente Comiéndose mi Gráfico de Contribuciones
 
 <p align="center">
-  <a href="https://github.com/Esteban2309" title="Contribuciones reales de Esteban2309">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-theta-sepia.vercel.app/api/snake?username=Esteban2309&amp;palette=github-dark&amp;color_snake=%239F7AEA" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-stats-theta-sepia.vercel.app/api/snake?username=Esteban2309&amp;palette=github-light&amp;color_snake=%237C3AED" />
-      <img src="https://readme-stats-theta-sepia.vercel.app/api/snake?username=Esteban2309&amp;palette=github-dark&amp;color_snake=%239F7AEA" alt="Serpiente animada a partir de las contribuciones reales de Esteban2309" width="100%" />
-    </picture>
-  </a>
+  <img src="https://raw.githubusercontent.com/Esteban2309/Esteban2309/main/profile/github-contribution-grid-snake-dark.svg" alt="Serpiente animada generada con las contribuciones de GitHub de Esteban2309" width="100%" />
 </p>
 
 ---
